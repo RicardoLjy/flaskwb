@@ -9,3 +9,11 @@ if __name__ == '__main__':
     dfdsf
     gsfdfg
     gdfgdf
+app.run(debug=True)
+    dfdsf
+    gsfdfg
+    gdfgdf
+app.run(debug=True)
+    dfdsf
+    gsfdfg
+    gdfgdf

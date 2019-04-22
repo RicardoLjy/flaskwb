@@ -5,6 +5,7 @@ app = Flask(__name__)
 def index():
     return '<h1>hello world</h1>'
 
+
 r'''
     动态路由参数：name需要动态输入
 '''
